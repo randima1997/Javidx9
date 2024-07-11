@@ -75,6 +75,7 @@ private:
 	struct sSpaceObject
 	{
 		int nSize;
+		int jace;
 		float x;
 		float y;
 		float dx;
